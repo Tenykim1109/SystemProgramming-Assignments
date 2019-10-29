@@ -7,3 +7,4 @@
 3. stty command(+option?)
 4. signal handler - SIGINT, SIGQUIT
 5. video games - curses.h
+6. fork
