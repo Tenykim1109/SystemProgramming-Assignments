@@ -6,3 +6,4 @@
 2. mv command
 3. stty command(+option?)
 4. signal handler - SIGINT, SIGQUIT
+5. video games - curses.h
