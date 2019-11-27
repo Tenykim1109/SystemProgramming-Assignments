@@ -10,3 +10,4 @@
 6. fork
 7. own shell
 8. extended pipe
+9. popen
