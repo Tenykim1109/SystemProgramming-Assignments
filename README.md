@@ -11,3 +11,5 @@
 7. own shell
 8. extended pipe
 9. popen
+10. make web server & server log file(using socket)
+11. thread
